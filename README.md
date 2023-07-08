@@ -1,2 +1,1 @@
-# Prepcourse-Henry
-Este es un repositorio de peruba M2 del prep henry
+Prueba como crear un repositorio y clonarlo desde github a mi laptop.
